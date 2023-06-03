@@ -1,5 +1,6 @@
 {
   "homepage":"https://eldad-knock.github.io/chat-bot-playground-ui",
+  "main": "build/index.html",
   "name": "chat-bot-playground-ui",
   "version": "0.1.0",
   "dependencies": {
